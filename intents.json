@@ -121,7 +121,9 @@
             "Tell me a joke",
             "What's your favorite color",
             "Do you like music",
-            "What's your name"
+            "What's your name",
+            "What's your favorite food",
+            "What's your favorite movie"
         ],
         "responses": [
             "Why don't scientists trust atoms? Because they make up everything!",
